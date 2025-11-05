@@ -3,6 +3,10 @@ This project predicts an individual's annual health insurance premium based on p
 
 Built with Python, Scikit-learn, and Streamlit, it demonstrates a complete ML pipeline — from data preprocessing and feature engineering to model training and deployment on the Streamlit Cloud.
 
+Live Demo
+
+[Try the App on Streamlit Cloud](https://siddhu-health-insurance-prediction-ml.streamlit.app/)
+
 🔹 Features
 
 Data cleaning, feature encoding, and outlier handling
