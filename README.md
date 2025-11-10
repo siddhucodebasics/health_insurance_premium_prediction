@@ -1,4 +1,4 @@
-# health_insurance_premium_prediction
+# ML-Project-Health-Insurance-Premium-Prediction
 This project predicts an individual's annual health insurance premium based on personal, lifestyle, and medical attributes using Machine Learning regression models.
 
 Built with Python, Scikit-learn, and Streamlit, it demonstrates a complete ML pipeline — from data preprocessing and feature engineering to model training and deployment on the Streamlit Cloud.
